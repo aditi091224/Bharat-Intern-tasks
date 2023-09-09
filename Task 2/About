@@ -1,0 +1,14 @@
+In this project, I completed the challenging task of developing a robust image recognition model. The model is implemented using Python and popular deep learning libraries.
+
+-- Key Highlights:
+- Dataset preprocessing and augmentation
+- Convolutional Neural Network (CNN) architecture
+- Model training and evaluation
+- Visualization of results
+- User interface for testing custom images
+
+-- Technologies Used:
+- Python
+- TensorFlow
+- Keras
+- Matplotlib
