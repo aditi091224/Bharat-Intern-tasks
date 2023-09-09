@@ -1,16 +1,6 @@
 # Bharat-Intern-tasks
-This repository contains the task projects I did during my internship at Bharat Intern.
+This repository contains the task projects I did during my internship as a data science intern at Bharat Intern.
 Welcome to my GitHub repository! This project consists of two tasks:
-
-## Table of Contents
-
-- [Task 1](#task1)
-- [Task 2](#task2)
-- [Directory Structure](#directorystructure)
-- [Installation and Usage](#installationandusage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Task 1: Stock Prediction using LSTM Model
 
@@ -41,9 +31,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any questions or inquiries, you can reach me out: 
-- Name- [Aditi Awasthi]
 - Email- aditimohan.09@gmail.com
-- LinkedIn- [https://www.linkedin.com/in/aditi-awasthi-a36b79217/].
+- LinkedIn- https://www.linkedin.com/in/aditi-awasthi-a36b79217/.
 
 Thank you for taking interest in my repository!! Please reach out to me if you have any doubts!!
 
